@@ -1,9 +1,9 @@
 /**
-*	Kaffen - Cafe & Restaurant Template (HTML)
+*	Robustas - Cafe & Restaurant Template (HTML)
 *	Version: 1.0
 *	Author: bslthemes
 *	Author URL: http://themeforest.net/user/bslthemes
-*	Copyright © Kaffen by bslthemes. All Rights Reserved.
+*	Copyright © Robustas by bslthemes. All Rights Reserved.
 **/
 
 ( function( $ ) {
