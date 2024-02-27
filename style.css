@@ -2135,6 +2135,7 @@ button.mfp-close:before, button.mfp-arrow:before {
 .kf-about-quote img {
   float: left;
   width: 95px;
+  height: 95px;
   border-radius: 100%;
   -webkit-border-radius: 100%;
 }
