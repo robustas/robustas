@@ -19,7 +19,7 @@
 			var preload = $('.preloader');
 			preload.addClass('loaded');
 			preload.find('.centrize').fadeOut();
-		}, 1000);
+		}, 1500);
 
 		/**
 			init Scrolla
