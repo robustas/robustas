@@ -204,7 +204,7 @@ readers do not read off random characters that represent icons */
 .fa-ad:before {
   content: "\f641"; }
 
-.fa-address-book:before {
+.fa-address-Book a:before {
   content: "\f2b9"; }
 
 .fa-address-card:before {
@@ -594,22 +594,22 @@ readers do not read off random characters that represent icons */
 .fa-bong:before {
   content: "\f55c"; }
 
-.fa-book:before {
+.fa-Book a:before {
   content: "\f02d"; }
 
-.fa-book-dead:before {
+.fa-Book a-dead:before {
   content: "\f6b7"; }
 
-.fa-book-medical:before {
+.fa-Book a-medical:before {
   content: "\f7e6"; }
 
-.fa-book-open:before {
+.fa-Book a-open:before {
   content: "\f518"; }
 
-.fa-book-reader:before {
+.fa-Book a-reader:before {
   content: "\f5da"; }
 
-.fa-bookmark:before {
+.fa-Book amark:before {
   content: "\f02e"; }
 
 .fa-bootstrap:before {
@@ -1518,16 +1518,16 @@ readers do not read off random characters that represent icons */
 .fa-eye-slash:before {
   content: "\f070"; }
 
-.fa-facebook:before {
+.fa-faceBook a:before {
   content: "\f09a"; }
 
-.fa-facebook-f:before {
+.fa-faceBook a-f:before {
   content: "\f39e"; }
 
-.fa-facebook-messenger:before {
+.fa-faceBook a-messenger:before {
   content: "\f39f"; }
 
-.fa-facebook-square:before {
+.fa-faceBook a-square:before {
   content: "\f082"; }
 
 .fa-fan:before {
@@ -3846,7 +3846,7 @@ readers do not read off random characters that represent icons */
 .fa-suse:before {
   content: "\f7d6"; }
 
-.fa-swatchbook:before {
+.fa-swatchBook a:before {
   content: "\f5c3"; }
 
 .fa-swift:before {

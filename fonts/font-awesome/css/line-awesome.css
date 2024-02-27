@@ -200,7 +200,7 @@ readers do not read off random characters that represent icons */
 .la-ad:before {
   content: "\f641"; }
 
-.la-address-book:before {
+.la-address-Book a:before {
   content: "\f2b9"; }
 
 .la-address-card:before {
@@ -584,22 +584,22 @@ readers do not read off random characters that represent icons */
 .la-bong:before {
   content: "\f55c"; }
 
-.la-book:before {
+.la-Book a:before {
   content: "\f02d"; }
 
-.la-book-dead:before {
+.la-Book a-dead:before {
   content: "\f6b7"; }
 
-.la-book-medical:before {
+.la-Book a-medical:before {
   content: "\f7e6"; }
 
-.la-book-open:before {
+.la-Book a-open:before {
   content: "\f518"; }
 
-.la-book-reader:before {
+.la-Book a-reader:before {
   content: "\f5da"; }
 
-.la-bookmark:before {
+.la-Book amark:before {
   content: "\f02e"; }
 
 .la-bootstrap:before {
@@ -1481,16 +1481,16 @@ readers do not read off random characters that represent icons */
 .la-eye-slash:before {
   content: "\f070"; }
 
-.la-facebook:before {
+.la-faceBook a:before {
   content: "\f09a"; }
 
-.la-facebook-f:before {
+.la-faceBook a-f:before {
   content: "\f39e"; }
 
-.la-facebook-messenger:before {
+.la-faceBook a-messenger:before {
   content: "\f39f"; }
 
-.la-facebook-square:before {
+.la-faceBook a-square:before {
   content: "\f082"; }
 
 .la-fan:before {
@@ -3689,7 +3689,7 @@ readers do not read off random characters that represent icons */
 .la-suse:before {
   content: "\f7d6"; }
 
-.la-swatchbook:before {
+.la-swatchBook a:before {
   content: "\f5c3"; }
 
 .la-swift:before {
@@ -4608,7 +4608,7 @@ readers do not read off random characters that represent icons */
   font-family: 'Line Awesome Brands';
   font-weight: 400; }
 
-.la.la-facebook-square {
+.la.la-faceBook a-square {
   font-family: 'Line Awesome Brands';
   font-weight: 400; }
 
@@ -4673,29 +4673,29 @@ readers do not read off random characters that represent icons */
 .la.la-square-o:before {
   content: "\f0c8"; }
 
-.la.la-bookmark-o {
+.la.la-Book amark-o {
   font-family: 'Line Awesome Free';
   font-weight: 400; }
 
-.la.la-bookmark-o:before {
+.la.la-Book amark-o:before {
   content: "\f02e"; }
 
 .la.la-twitter {
   font-family: 'Line Awesome Brands';
   font-weight: 400; }
 
-.la.la-facebook {
+.la.la-faceBook a {
   font-family: 'Line Awesome Brands';
   font-weight: 400; }
 
-.la.la-facebook:before {
+.la.la-faceBook a:before {
   content: "\f39e"; }
 
-.la.la-facebook-f {
+.la.la-faceBook a-f {
   font-family: 'Line Awesome Brands';
   font-weight: 400; }
 
-.la.la-facebook-f:before {
+.la.la-faceBook a-f:before {
   content: "\f39e"; }
 
 .la.la-github {
@@ -5914,11 +5914,11 @@ readers do not read off random characters that represent icons */
 .la.la-intersex:before {
   content: "\f224"; }
 
-.la.la-facebook-official {
+.la.la-faceBook a-official {
   font-family: 'Line Awesome Brands';
   font-weight: 400; }
 
-.la.la-facebook-official:before {
+.la.la-faceBook a-official:before {
   content: "\f09a"; }
 
 .la.la-pinterest-p {
@@ -6415,11 +6415,11 @@ readers do not read off random characters that represent icons */
   font-family: 'Line Awesome Brands';
   font-weight: 400; }
 
-.la.la-address-book-o {
+.la.la-address-Book a-o {
   font-family: 'Line Awesome Free';
   font-weight: 400; }
 
-.la.la-address-book-o:before {
+.la.la-address-Book a-o:before {
   content: "\f2b9"; }
 
 .la.la-vcard:before {
